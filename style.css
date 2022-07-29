@@ -1,0 +1,17 @@
+.body {
+   
+    font-family: sans-serif;
+    
+}
+
+.linea{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.container{
+    color: rgba(40, 91, 210, 0.792);}
+
+.main{
+    padding: 2rem;
+}
