@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const miLocalStorage = window.localStorage;
   const baseDeDatos = [];
 
-  // Funciones//
 
+//Aplicando fetch//
   function renderizarProductos() { 
     fetch("./js/fogoneros.json")
       .then(response => response.json())

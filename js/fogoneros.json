@@ -1,3 +1,4 @@
+
 [
     {
         "id": 1,
@@ -39,4 +40,14 @@
         "precio": 3500,
         "imagen": "/img/set-asador.jpg"
 
-    }]
+    },
+
+    {
+        "id": 7,
+        "nombre": "Combo Titabé",
+        "precio": 17000,
+        "imagen": "/img/combo.jpg"
+
+    }
+
+]
